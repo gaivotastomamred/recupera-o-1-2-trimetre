@@ -1,0 +1,18 @@
+header{
+    margin: 1cm;
+    padding: 10px;
+}
+
+main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#frase{
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-style: italic;
+}
